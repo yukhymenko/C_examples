@@ -1,3 +1,12 @@
+/*
+ * Author:  Oleksii Yukhymenko
+ * Date:    03-Feb-2018
+ *
+ *
+ * An example of a correct and incorrect reading a file in C
+ *
+ */
+
 #include <stdio.h>
 
 #define FILE_NAME "file2.txt"
